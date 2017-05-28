@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.easyfoodscameroon.app" version="0.1.0">
+  <name>Easy Foods Cameroon</name>
+  <description>
+    Application de commande et livraison de nourriture a Douala
+  </description>
+  <author email="stephnguets@yahoo.fr">
+    Nguetseng Stephane
+  </author>
+</widget>
