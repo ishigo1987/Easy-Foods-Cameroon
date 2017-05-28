@@ -50,7 +50,7 @@ exports.create = () =>
        ).then();
 
    let imageCardViewMeal = new tabris.ImageView({
-      top:0, height:200, width:150,image:{src:"../img/card.jpg"},scaleMode:"fill", id:"imageCardViewMeal"
+      top:0, height:200, width:150,image:{src:"img/card.jpg"},scaleMode:"fill", id:"imageCardViewMeal"
     }).appendTo(cardViewMeal);
 
 
@@ -112,7 +112,7 @@ exports.create = () =>
        ).then();
 
    let imagecardViewMeal1 = new tabris.ImageView({
-      top:0, height:200, width:150,image:{src:"../img/card2.jpg"},scaleMode:"fill", id:"imagecardViewMeal1"
+      top:0, height:200, width:150,image:{src:"img/card2.jpg"},scaleMode:"fill", id:"imagecardViewMeal1"
     }).appendTo(cardViewMeal1);
 
 
@@ -165,7 +165,7 @@ exports.create = () =>
        ).then();
 
    let imagecardViewMeal2 = new tabris.ImageView({
-      top:0, height:200, width:150,image:{src:"../img/card3.jpg"},scaleMode:"fill", id:"imagecardViewMeal2"
+      top:0, height:200, width:150,image:{src:"img/card3.jpg"},scaleMode:"fill", id:"imagecardViewMeal2"
     }).appendTo(cardViewMeal2);
 
 
